@@ -22,3 +22,11 @@ Após o processamento da entrada, o programa irá imprimir N linhas apontando o 
 (TME) calculado com base nas N tarefas computadas pelo escalonador.
 
 
+COMANDO UTILIZADOS EM LINUX:
+
+#COMPLIANDO ARQUIVOS
+-> gcc escalonamento.c -o escalonamento
+
+#REALIZANDO ENTRADA DE ARQUIVO TEXTO
+-> ./escalonamento < entrada.txt
+
