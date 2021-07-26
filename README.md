@@ -24,7 +24,7 @@ Após o processamento da entrada, o programa irá imprimir N linhas apontando o 
 
 COMANDO UTILIZADOS EM LINUX:
 
-#COMPLIANDO ARQUIVOS
+#COMPILANDO ARQUIVOS
 -> gcc escalonamento.c -o escalonamento
 
 #REALIZANDO ENTRADA DE ARQUIVO TEXTO
